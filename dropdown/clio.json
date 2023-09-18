@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CleanUp",
+"dataUrl": "https://cdn.jsdelivr.net/gh/billybobisverycool/-m@67485d31f27df608a4407d8cf3b42fd08c65e2e4/clean-up-io/cleanup.data.unityweb",
+"wasmCodeUrl": "https://cdn.jsdelivr.net/gh/billybobisverycool/-m@67485d31f27df608a4407d8cf3b42fd08c65e2e4/clean-up-io/cleanup.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/sk1bx/ReactCasts@b715be9ffdf2b8e5feb941ef8efbe3ed8084b637/imgur-client/garbage_collector.wasm",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
